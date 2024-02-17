@@ -1,0 +1,84 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{5BC4A33C-268A-4046-98CB-780639CC65A5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "00.Package", "00.Package", "{6DFDFABB-AC15-4AE8-9DD5-3E122B92A5ED}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.Core", "01.Core", "{82ACA345-2AD7-478D-B733-19C7240C0B97}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.InfraStructure", "02.InfraStructure", "{F6CEAA13-A69A-4C2B-9ED8-23DCF3501CE1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03.Presentation", "03.Presentation", "{98C17E80-F72C-494F-B3E1-B126AA39E855}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootsallTeamManagment.Contracts", "FootsallTeamManagment.Contracts\FootsallTeamManagment.Contracts.csproj", "{342D5269-D2F6-44C1-8C8D-8475734A52CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootsallTeamManagment.Entities", "FootsallTeamManagment.Entities\FootsallTeamManagment.Entities.csproj", "{86CA6688-46D9-48BB-BDAA-170367B8F261}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootsallTeamManagment.Services", "FootsallTeamManagment.Services\FootsallTeamManagment.Services.csproj", "{3A9191FF-2E96-4FA3-86DA-781ACCE07A09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootsallTeamManagment.Api", "FootsallTeamManagment.Api\FootsallTeamManagment.Api.csproj", "{E2C32F0E-2E2D-44C8-B69E-B87341464A9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootsallTeamManagment.Infrastructure", "FootsallTeamManagment.Infrastructure\FootsallTeamManagment.Infrastructure.csproj", "{13A2DDA2-F30B-4D67-BB42-0CA5158A7301}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootsallTeamManagment.Migrations", "FootsallTeamManagment.Migrations\FootsallTeamManagment.Migrations.csproj", "{37805373-3980-4E6E-90A0-973FA2734FC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootsallTeamManagment.Persistence.EF", "FootsallTeamManagment.Persistence.EF\FootsallTeamManagment.Persistence.EF.csproj", "{F7B409C7-75B7-4CDE-A8D4-CCABC031133E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{342D5269-D2F6-44C1-8C8D-8475734A52CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{342D5269-D2F6-44C1-8C8D-8475734A52CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{342D5269-D2F6-44C1-8C8D-8475734A52CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{342D5269-D2F6-44C1-8C8D-8475734A52CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86CA6688-46D9-48BB-BDAA-170367B8F261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86CA6688-46D9-48BB-BDAA-170367B8F261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86CA6688-46D9-48BB-BDAA-170367B8F261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86CA6688-46D9-48BB-BDAA-170367B8F261}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A9191FF-2E96-4FA3-86DA-781ACCE07A09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A9191FF-2E96-4FA3-86DA-781ACCE07A09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A9191FF-2E96-4FA3-86DA-781ACCE07A09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A9191FF-2E96-4FA3-86DA-781ACCE07A09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2C32F0E-2E2D-44C8-B69E-B87341464A9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2C32F0E-2E2D-44C8-B69E-B87341464A9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2C32F0E-2E2D-44C8-B69E-B87341464A9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2C32F0E-2E2D-44C8-B69E-B87341464A9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13A2DDA2-F30B-4D67-BB42-0CA5158A7301}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13A2DDA2-F30B-4D67-BB42-0CA5158A7301}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13A2DDA2-F30B-4D67-BB42-0CA5158A7301}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13A2DDA2-F30B-4D67-BB42-0CA5158A7301}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37805373-3980-4E6E-90A0-973FA2734FC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37805373-3980-4E6E-90A0-973FA2734FC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37805373-3980-4E6E-90A0-973FA2734FC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37805373-3980-4E6E-90A0-973FA2734FC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7B409C7-75B7-4CDE-A8D4-CCABC031133E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7B409C7-75B7-4CDE-A8D4-CCABC031133E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7B409C7-75B7-4CDE-A8D4-CCABC031133E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7B409C7-75B7-4CDE-A8D4-CCABC031133E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6DFDFABB-AC15-4AE8-9DD5-3E122B92A5ED} = {5BC4A33C-268A-4046-98CB-780639CC65A5}
+		{82ACA345-2AD7-478D-B733-19C7240C0B97} = {5BC4A33C-268A-4046-98CB-780639CC65A5}
+		{F6CEAA13-A69A-4C2B-9ED8-23DCF3501CE1} = {5BC4A33C-268A-4046-98CB-780639CC65A5}
+		{98C17E80-F72C-494F-B3E1-B126AA39E855} = {5BC4A33C-268A-4046-98CB-780639CC65A5}
+		{342D5269-D2F6-44C1-8C8D-8475734A52CA} = {6DFDFABB-AC15-4AE8-9DD5-3E122B92A5ED}
+		{86CA6688-46D9-48BB-BDAA-170367B8F261} = {82ACA345-2AD7-478D-B733-19C7240C0B97}
+		{3A9191FF-2E96-4FA3-86DA-781ACCE07A09} = {82ACA345-2AD7-478D-B733-19C7240C0B97}
+		{E2C32F0E-2E2D-44C8-B69E-B87341464A9F} = {98C17E80-F72C-494F-B3E1-B126AA39E855}
+		{13A2DDA2-F30B-4D67-BB42-0CA5158A7301} = {F6CEAA13-A69A-4C2B-9ED8-23DCF3501CE1}
+		{37805373-3980-4E6E-90A0-973FA2734FC0} = {F6CEAA13-A69A-4C2B-9ED8-23DCF3501CE1}
+		{F7B409C7-75B7-4CDE-A8D4-CCABC031133E} = {F6CEAA13-A69A-4C2B-9ED8-23DCF3501CE1}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {632CB15D-6C0C-4D82-AA90-4DA689603704}
+	EndGlobalSection
+EndGlobal

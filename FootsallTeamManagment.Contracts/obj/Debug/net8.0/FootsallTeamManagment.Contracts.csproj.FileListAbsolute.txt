@@ -1,0 +1,11 @@
+D:\VS Save\FootsallTeamManagment\FootsallTeamManagment.Contracts\bin\Debug\net8.0\FootsallTeamManagment.Contracts.deps.json
+D:\VS Save\FootsallTeamManagment\FootsallTeamManagment.Contracts\bin\Debug\net8.0\FootsallTeamManagment.Contracts.dll
+D:\VS Save\FootsallTeamManagment\FootsallTeamManagment.Contracts\bin\Debug\net8.0\FootsallTeamManagment.Contracts.pdb
+D:\VS Save\FootsallTeamManagment\FootsallTeamManagment.Contracts\obj\Debug\net8.0\FootsallTeamManagment.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Save\FootsallTeamManagment\FootsallTeamManagment.Contracts\obj\Debug\net8.0\FootsallTeamManagment.Contracts.AssemblyInfoInputs.cache
+D:\VS Save\FootsallTeamManagment\FootsallTeamManagment.Contracts\obj\Debug\net8.0\FootsallTeamManagment.Contracts.AssemblyInfo.cs
+D:\VS Save\FootsallTeamManagment\FootsallTeamManagment.Contracts\obj\Debug\net8.0\FootsallTeamManagment.Contracts.csproj.CoreCompileInputs.cache
+D:\VS Save\FootsallTeamManagment\FootsallTeamManagment.Contracts\obj\Debug\net8.0\FootsallTeamManagment.Contracts.dll
+D:\VS Save\FootsallTeamManagment\FootsallTeamManagment.Contracts\obj\Debug\net8.0\refint\FootsallTeamManagment.Contracts.dll
+D:\VS Save\FootsallTeamManagment\FootsallTeamManagment.Contracts\obj\Debug\net8.0\FootsallTeamManagment.Contracts.pdb
+D:\VS Save\FootsallTeamManagment\FootsallTeamManagment.Contracts\obj\Debug\net8.0\ref\FootsallTeamManagment.Contracts.dll

@@ -1,0 +1,17 @@
+D:\VS Save\FootsallTeamManagment\FootsallTeamManagment.Services\bin\Debug\net8.0\FootsallTeamManagment.Services.deps.json
+D:\VS Save\FootsallTeamManagment\FootsallTeamManagment.Services\bin\Debug\net8.0\FootsallTeamManagment.Services.dll
+D:\VS Save\FootsallTeamManagment\FootsallTeamManagment.Services\bin\Debug\net8.0\FootsallTeamManagment.Services.pdb
+D:\VS Save\FootsallTeamManagment\FootsallTeamManagment.Services\bin\Debug\net8.0\FootsallTeamManagment.Contracts.dll
+D:\VS Save\FootsallTeamManagment\FootsallTeamManagment.Services\bin\Debug\net8.0\FootsallTeamManagment.Entities.dll
+D:\VS Save\FootsallTeamManagment\FootsallTeamManagment.Services\bin\Debug\net8.0\FootsallTeamManagment.Contracts.pdb
+D:\VS Save\FootsallTeamManagment\FootsallTeamManagment.Services\bin\Debug\net8.0\FootsallTeamManagment.Entities.pdb
+D:\VS Save\FootsallTeamManagment\FootsallTeamManagment.Services\obj\Debug\net8.0\FootsallTeamManagment.Services.csproj.AssemblyReference.cache
+D:\VS Save\FootsallTeamManagment\FootsallTeamManagment.Services\obj\Debug\net8.0\FootsallTeamManagment.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Save\FootsallTeamManagment\FootsallTeamManagment.Services\obj\Debug\net8.0\FootsallTeamManagment.Services.AssemblyInfoInputs.cache
+D:\VS Save\FootsallTeamManagment\FootsallTeamManagment.Services\obj\Debug\net8.0\FootsallTeamManagment.Services.AssemblyInfo.cs
+D:\VS Save\FootsallTeamManagment\FootsallTeamManagment.Services\obj\Debug\net8.0\FootsallTeamManagment.Services.csproj.CoreCompileInputs.cache
+D:\VS Save\FootsallTeamManagment\FootsallTeamManagment.Services\obj\Debug\net8.0\FootsallTeamManagment.Services.csproj.CopyComplete
+D:\VS Save\FootsallTeamManagment\FootsallTeamManagment.Services\obj\Debug\net8.0\FootsallTeamManagment.Services.dll
+D:\VS Save\FootsallTeamManagment\FootsallTeamManagment.Services\obj\Debug\net8.0\refint\FootsallTeamManagment.Services.dll
+D:\VS Save\FootsallTeamManagment\FootsallTeamManagment.Services\obj\Debug\net8.0\FootsallTeamManagment.Services.pdb
+D:\VS Save\FootsallTeamManagment\FootsallTeamManagment.Services\obj\Debug\net8.0\ref\FootsallTeamManagment.Services.dll

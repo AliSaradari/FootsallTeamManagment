@@ -1,0 +1,11 @@
+D:\VS Save\FootsallTeamManagment\FootsallTeamManagment.Entities\bin\Debug\net8.0\FootsallTeamManagment.Entities.deps.json
+D:\VS Save\FootsallTeamManagment\FootsallTeamManagment.Entities\bin\Debug\net8.0\FootsallTeamManagment.Entities.dll
+D:\VS Save\FootsallTeamManagment\FootsallTeamManagment.Entities\bin\Debug\net8.0\FootsallTeamManagment.Entities.pdb
+D:\VS Save\FootsallTeamManagment\FootsallTeamManagment.Entities\obj\Debug\net8.0\FootsallTeamManagment.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Save\FootsallTeamManagment\FootsallTeamManagment.Entities\obj\Debug\net8.0\FootsallTeamManagment.Entities.AssemblyInfoInputs.cache
+D:\VS Save\FootsallTeamManagment\FootsallTeamManagment.Entities\obj\Debug\net8.0\FootsallTeamManagment.Entities.AssemblyInfo.cs
+D:\VS Save\FootsallTeamManagment\FootsallTeamManagment.Entities\obj\Debug\net8.0\FootsallTeamManagment.Entities.csproj.CoreCompileInputs.cache
+D:\VS Save\FootsallTeamManagment\FootsallTeamManagment.Entities\obj\Debug\net8.0\FootsallTeamManagment.Entities.dll
+D:\VS Save\FootsallTeamManagment\FootsallTeamManagment.Entities\obj\Debug\net8.0\refint\FootsallTeamManagment.Entities.dll
+D:\VS Save\FootsallTeamManagment\FootsallTeamManagment.Entities\obj\Debug\net8.0\FootsallTeamManagment.Entities.pdb
+D:\VS Save\FootsallTeamManagment\FootsallTeamManagment.Entities\obj\Debug\net8.0\ref\FootsallTeamManagment.Entities.dll
